@@ -1,7 +1,7 @@
 
-# site
+# Site
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of site is to study 
+The goal of site is to ...
