@@ -2,11 +2,14 @@ name: "my-website"
 output_dir: "docs"
 navbar:
   title: "Encontro com a Estatística"
+  description: "teste"
   left:
     - text: "Atividades Didáticas"
       href: ativ.html
     - text: "Livros"
       href: livros.html
+    - text: "Minicursos"
+      href: minicursos.html
     - text: "Sobre"
       href: about.html
 

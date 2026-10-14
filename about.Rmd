@@ -2,4 +2,5 @@
 title: "Sobre"
 ---
 
-More about this website.
+Projeto do Departamento de Estatística - UFJF.
+

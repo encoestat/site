@@ -1,5 +1,6 @@
 ---
 title: "Encontros com a Estatística"
+description: ""
 ---
 
-Esse site foi construído com o objetivo de facilitar o ensino de Estatística. 
+Esse site foi construído com o objetivo de facilitar o ensino de Estatística em todos os níveis. 
