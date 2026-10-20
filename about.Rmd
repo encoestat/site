@@ -2,5 +2,18 @@
 title: "Sobre"
 ---
 
-Projeto do Departamento de Estatística - UFJF.
+O **Encontros com a Estatística** é um projeto desenvolvido no Departamento de Estatística da Universidade Federal de Juiz de Fora (UFJF), com o propósito de reunir e disponibilizar materiais que contribuam para o ensino e a aprendizagem de Estatística. <br>
+
+O site funciona como um repositório de recursos educacionais, facilitando o acesso de professores, estudantes e demais interessados a materiais relacionados à Educação Estatística. <br>
+
+*Objetivo:* Facilitar o acesso a recursos para o ensino de Estatística, reunindo diferentes materiais em um único espaço e contribuindo para práticas de ensino mais acessíveis e significativas.
+
+*Você encontra aqui:*
+
+- Atividades Didáticas: Propostas para trabalhar conteúdos estatísticos em diferentes níveis de ensino. <br>
+- Livros: Indicações de livros e materiais relacionados à Estatística e à Educação Estatística. <br>
+- Minicursos: Minicursos e materiais de formação relacionados ao ensino de Estatística. <br>
+
+O projeto é desenvolvido por estudantes e professores vinculados ao Departamento de Estatística da Universidade Federal de Juiz de Fora.
+
 

@@ -55,35 +55,35 @@ div(
 
 Atividades destinadas ao Ensino Fundamental.
 
-Título:
-Nível de ensino:
-Conteúdo estatístico:
-Descrição:
-Duração estimada:
-Tipo: atividade, projeto, jogo, sequência didática etc.
-Materiais necessários, quando houver
+Título: <br>
+Nível de ensino: <br>
+Conteúdo estatístico: <br>
+Descrição: <br>
+Duração estimada: <br>
+Tipo: atividade, projeto, jogo, sequência didática etc. <br>
+Materiais necessários, quando houver <br>
 
 ## Ensino Médio {#ensino-medio}
 
 Atividades destinadas ao Ensino Médio.
 
-Título:
-Nível de ensino:
-Conteúdo estatístico:
-Descrição:
-Duração estimada:
-Tipo: atividade, projeto, jogo, sequência didática etc.
-Materiais necessários, quando houver
+Título: <br>
+Nível de ensino: <br>
+Conteúdo estatístico: <br>
+Descrição: <br>
+Duração estimada: <br>
+Tipo: atividade, projeto, jogo, sequência didática etc. <br>
+Materiais necessários, quando houver <br>
 
 ## Ensino Superior {#ensino-superior}
 
 Atividades destinadas ao Ensino Superior.
 
-Título:
-Nível de ensino:
-Conteúdo estatístico:
-Descrição:
-Duração estimada:
-Tipo: atividade, projeto, jogo, sequência didática etc.
-Materiais necessários, quando houver
+Título: <br>
+Nível de ensino: <br>
+Conteúdo estatístico: <br>
+Descrição: <br>
+Duração estimada: <br>
+Tipo: atividade, projeto, jogo, sequência didática etc. <br>
+Materiais necessários, quando houver <br>
 
