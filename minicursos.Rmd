@@ -1,10 +1,20 @@
 ---
 title: "Minicursos"
+output: 
+  distill::distill_article:
+     toc: TRUE
+     toc_depth: 3
 ---
 
 Alguns minicursos que podem ser úteis: 
 
-# Nome minicurso
+## Nome minicurso
+
+Carga Horária: <br>
+Descrição:  <br>
+[Acesse o minicurso](https://www.ime.usp.br/~marcos/) <br>
+
+## Nome minicurso
 
 Carga Horária: <br>
 Descrição:  <br>
