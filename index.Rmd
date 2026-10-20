@@ -1,6 +1,6 @@
 ---
 title: "Encontros com a Estatística"
-description: ""
+description: "*Recursos para ensinar, aprender e explorar Estatística*"
 ---
 
 Um repositório de materiais educacionais voltado ao ensino de Estatística em diferentes níveis de ensino.
