@@ -1,5 +1,5 @@
 ---
-title: "Encontros com a Estatística"
+title: "Encontros com a Estatística - UFJF"
 description: "*Recursos para ensinar, aprender e explorar Estatística*"
 ---
 

@@ -8,7 +8,7 @@ output:
 
 Alguns minicursos que podem ser úteis: 
 
-## Nome minicurso
+## Elaboração de Relatórios Técnicos e Paginas Web Usando R Markdown
 
 Carga Horária: <br>
 Descrição:  <br>

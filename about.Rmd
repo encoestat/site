@@ -2,7 +2,7 @@
 title: "Sobre"
 ---
 
-O **Encontros com a Estatística** é um projeto desenvolvido no Departamento de Estatística da Universidade Federal de Juiz de Fora (UFJF), com o propósito de reunir e disponibilizar materiais que contribuam para o ensino e a aprendizagem de Estatística. <br>
+O **Encontros com a Estatística** é um projeto que tem como principal objetivo divulgar e disseminar, na comunidade acadêmica e externa, a importância da metodologia estatística em pesquisa, em identificação de padrões que facilitem o entendimento de problemas reais e como ferramental de apoio em processos de tomada de decisões no âmbito público e privado. Busca também mediar um vínculo permanente e periódico entre a comunidade externa e acadêmica, com a finalidade de auscultar suas demandas por novas metodologias e ferramentas estatísticas com finalidade de apoio em suas decisões e adequadas às suas necessidades. <br>
 
 O site funciona como um repositório de recursos educacionais, facilitando o acesso de professores, estudantes e demais interessados a materiais relacionados à Educação Estatística. <br>
 

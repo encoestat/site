@@ -12,6 +12,11 @@ navbar:
       href: minicursos.html
     - text: "Sobre"
       href: about.html
+    - icon: "fa-github"
+      href: "https://github.com/encoestat"
+    - icon: "fa-youtube"
+      href: "https://www.youtube.com/@encontroscomaestatisticauf3574"
+
   navbar:
     logo:
       image: images/logo.png
