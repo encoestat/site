@@ -3,4 +3,33 @@ title: "Encontros com a Estatística"
 description: ""
 ---
 
-Esse site foi construído com o objetivo de facilitar o ensino de Estatística em todos os níveis. 
+Um repositório de materiais educacionais voltado ao ensino de Estatística em diferentes níveis de ensino.
+
+*Explore nossos materiais:*
+
+```{r cards, echo=FALSE}
+library(htmltools)
+
+div(class = "cards-container",
+    a(href = "ativ.html",
+      class = "card", div(class = "card-icone", "📊"),
+                          h3("Atividades Didáticas"),
+                          p("Propostas e recursos para trabalhar Estatística em diferentes níveis de ensino."),
+      span(class = "card-link", "Explorar atividades →")
+  ),
+  
+  a(href = "livros.html",
+    class = "card",
+    div(class = "card-icone", "📚"),
+        h3("Livros"),
+        p("Livros e materiais de apoio para professores e estudantes."),
+    span(class = "card-link", "Explorar livros →")),
+  
+  a(href = "minicursos.html",
+    class = "card",
+    div(class = "card-icone", "🎓"),
+        h3("Minicursos"),
+        p("Conteúdos para formação e aprofundamento em Estatística e Educação Estatística."),
+    span(class = "card-link", "Explorar minicursos →"))
+)
+```
