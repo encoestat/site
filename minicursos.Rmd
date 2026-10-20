@@ -10,9 +10,14 @@ Alguns minicursos que podem ser úteis:
 
 ## Elaboração de Relatórios Técnicos e Paginas Web Usando R Markdown
 
-Carga Horária: <br>
-Descrição:  <br>
-[Acesse o minicurso](https://www.ime.usp.br/~marcos/) <br>
+Carga Horária: 12 horas. <br>
+*Descrição:*  <br>
+A geração de relatórios técnicos e páginas web de análise de dados conectadas diretamente com grandes bases de dados estão se tornando cada vez mais comuns e necessárias no contexto acadêmico e técnico atual. <br>
+
+A funcionalidade R Markdown tem sido muito utilizada por estatísticos pela familiaridade que os profissionais da área possuem com o R. Diversos tutoriais a respeito do uso de R Markdown estão disponíveis na internet. <br>
+
+O objetivo deste curso é ensinar não só os conceitos que estão por trás do uso do R Markdown e de suas aplicações, mas também oferecer uma estrutura sólida para a elaboração de procedimentos automatizados para relatar análise de dados. <br>
+[Acesse a playlist do minicurso](https://youtube.com/playlist?list=PLrF2H4nGFuO381BQBoTz9Xu44g3JUKt7k&si=HIq-ZKNzSpIwJz0d) <br>
 
 ## Nome minicurso
 
