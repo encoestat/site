@@ -5,3 +5,70 @@ output:
      toc: TRUE
      toc_depth: 3
 ---
+
+Nesta seção, você encontra livros e materiais de apoio relacionados à Estatística e à Educação Estatística, destinados a professores, estudantes e demais interessados.
+
+## Explore os livros
+
+```{r livros, echo=FALSE}
+library(htmltools)
+
+div(class = "lista-livros",
+  
+  # LIVRO 1
+  div(class = "card-livro",
+    
+    div(class = "livro-capa",
+      img(#src = "imagens/livro1.jpg",
+          alt = "Capa do livro")),
+    
+    div(class = "livro-info",
+        h3("Título do livro"),
+        
+        p(class = "livro-autor",
+        strong("Autor: "), "Nome do autor"),
+        
+        p(class = "livro-edicao",
+        strong("Edição: "),"2ª edição"),
+      
+    div(class = "livro-tags",
+        span("Ensino Médio"),
+        span("Professores")),
+      
+      p("Breve descrição do livro e de como esse material pode contribuir para o ensino de Estatística."),
+      
+      a(href = "#", # site do livro
+        class = "botao-livro","Acesse o livro →"
+      )
+    )
+  ),
+  
+  # LIVRO 2
+  div(class = "card-livro",
+    
+    div(class = "livro-capa",
+      img(#src = "imagens/livro1.jpg",
+          alt = "Capa do livro")),
+    
+    div(class = "livro-info",
+        h3("Título do livro"),
+        
+        p(class = "livro-autor",
+        strong("Autor: "), "Nome do autor"),
+        
+        p(class = "livro-edicao",
+        strong("Edição: "),"2ª edição"),
+      
+    div(class = "livro-tags",
+        span("Ensino Médio"),
+        span("Professores")),
+      
+      p("Breve descrição do livro e de como esse material pode contribuir para o ensino de Estatística."),
+      
+      a(href = "#", # site do livro
+        class = "botao-livro","Acesse o livro →"
+      )
+    )
+  )
+)
+```

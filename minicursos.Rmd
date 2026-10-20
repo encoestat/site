@@ -4,3 +4,8 @@ title: "Minicursos"
 
 Alguns minicursos que podem ser úteis: 
 
+# Nome minicurso
+
+Carga Horária: <br>
+Descrição:  <br>
+[Acesse o minicurso](https://www.ime.usp.br/~marcos/) <br>

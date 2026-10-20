@@ -3,7 +3,7 @@ output_dir: "docs"
 navbar:
   title: "Encontro com a Estatística"
   description:
-  left:
+  right:
     - text: "Atividades Didáticas"
       href: ativ.html
     - text: "Livros"

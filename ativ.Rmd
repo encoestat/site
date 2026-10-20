@@ -2,4 +2,88 @@
 title: "Atividades Didáticas"
 ---
 
+Encontre propostas de atividades para o ensino de Estatística em diferentes níveis de ensino.
+
+## Explore por nível de ensino
+
+```{r niveis, echo=FALSE}
+library(htmltools)
+
+div(
+  class = "cards-niveis",
+  
+  div(
+    class = "card-nivel",
+    div(class = "nivel-icone", "✏️"),
+    h3("Ensino Fundamental"),
+    p("Atividades para explorar dados, gráficos, tabelas e probabilidade."),
+    a(
+      href = "#ensino-fundamental",
+      class = "botao-nivel",
+      "Ver atividades →"
+    )
+  ),
+  
+  div(
+    class = "card-nivel",
+    div(class = "nivel-icone", "📊"),
+    h3("Ensino Médio"),
+    p("Atividades para desenvolver o raciocínio estatístico e probabilístico."),
+    a(
+      href = "#ensino-medio",
+      class = "botao-nivel",
+      "Ver atividades →"
+    )
+  ),
+  
+  div(
+    class = "card-nivel",
+    div(class = "nivel-icone", "🎓"),
+    h3("Ensino Superior"),
+    p("Atividades para diferentes conteúdos e aplicações da Estatística."),
+    a(
+      href = "#ensino-superior",
+      class = "botao-nivel",
+      "Ver atividades →"
+    )
+  )
+)
+```
+
+
+## Ensino Fundamental {#ensino-fundamental}
+
+Atividades destinadas ao Ensino Fundamental.
+
+Título:
+Nível de ensino:
+Conteúdo estatístico:
+Descrição:
+Duração estimada:
+Tipo: atividade, projeto, jogo, sequência didática etc.
+Materiais necessários, quando houver
+
+## Ensino Médio {#ensino-medio}
+
+Atividades destinadas ao Ensino Médio.
+
+Título:
+Nível de ensino:
+Conteúdo estatístico:
+Descrição:
+Duração estimada:
+Tipo: atividade, projeto, jogo, sequência didática etc.
+Materiais necessários, quando houver
+
+## Ensino Superior {#ensino-superior}
+
+Atividades destinadas ao Ensino Superior.
+
+Título:
+Nível de ensino:
+Conteúdo estatístico:
+Descrição:
+Duração estimada:
+Tipo: atividade, projeto, jogo, sequência didática etc.
+Materiais necessários, quando houver
 
